@@ -1,5 +1,5 @@
 # pg_inheritance_to_declarative_partition
-Convert your Inheritance based partition tables to Declarative based partition tables.
+Convert your PostgreSQL Inheritance based partition tables to Declarative based partition tables.
 
 
 This code having small plpgsql functions to list and convert inheritance based partition to declarative syntax based partitions.
